@@ -1,0 +1,22 @@
+{
+    "sourceFile": "src/index.css",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1749048416303,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1749048426436,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+@import \"tailwindcs\"\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1749048416303,
+            "name": "Commit-0",
+            "content": ""
+        }
+    ]
+}
